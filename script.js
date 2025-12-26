@@ -1,7 +1,12 @@
-const text = `Halo! Ini adalah halaman kertas digital.
-Kamu bisa menulis apa saja di sini...
+pconst text = `i just want to tell u. i dont like u anymore.
+my crush era was end, cuz theres no chance for us to be "us" , right?
+so, i dont want u anymore, i dont want to bother ur world.
 
-Tulisan ini muncul seperti sedang diketik :)`;
+i'll let u go, i am also ready if one day
+i see u with the woman of ur choice.
+
+thanks for being the reason i smile and
+excited about going campus:)`;
 
 let i = 0;
 const speed = 50; // kecepatan ketik (ms)
